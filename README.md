@@ -195,8 +195,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mohammad Sanei**
 - GitHub: [@msanei-dev](https://github.com/msanei-dev)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+- Email: saneimatin33@gmail.com
 
 ---
 
